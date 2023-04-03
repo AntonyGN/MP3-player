@@ -1,6 +1,11 @@
 # MP3 Player
 This is a simple MP3 player that allows you to play, pause, and stop MP3 files using Python and the VLC library. The program uses ```PySimpleGUI``` to create a simple GUI for selecting and controlling the MP3 playback.
 
+## Below is a screenshot of the MP3 player
+<p align="">
+  <img width="" height="" src="https://github.com/AntonyGN/MP3-player/blob/main/1.png">
+ </p>
+
 ## Installation
 The following libraries are required to run the program:
 
